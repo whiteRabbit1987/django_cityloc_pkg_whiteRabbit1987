@@ -1,2 +1,1 @@
-# -django_cityloc_pkg_whiteRabbit1987
 # django_cityloc_pkg_whiteRabbit1987
